@@ -21,6 +21,10 @@ public class _04_Opreator4 {
 
         // System.out.println(1 < 3 < 5); // 불가능한 코드
 
-
+        // 논리 부정 연산자
+        System.out.println(!true); // false
+        System.out.println(!false); // true
+        System.out.println(!(5 == 5)); // false
+        System.out.println(!(5 == 3)); //
     }
 }
