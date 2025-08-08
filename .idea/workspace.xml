@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="984fb1f1-723a-47f2-8b80-7eeabbd0d7f5" name="변경" comment="" />
+    <list default="true" id="984fb1f1-723a-47f2-8b80-7eeabbd0d7f5" name="변경" comment="feat: StudyJava">
+      <change afterPath="$USER_HOME$/Desktop/javaWorkspace/src/chap_02/_05_Operator5.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/javaWorkspace/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Desktop/javaWorkspace/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Desktop/javaWorkspace" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IlIllIllIlIlllII"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/IlIllIllIlIlllII/javaWorkspace.git",
+    "accountId": "b61a8754-2e69-4fbe-b39f-939a2efc6ae5"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -45,6 +60,7 @@
     "애플리케이션._02_DataTypes.executor": "Run",
     "애플리케이션._03_variables.executor": "Run",
     "애플리케이션._04_Comment.executor": "Run",
+    "애플리케이션._05_Operator5.executor": "Run",
     "애플리케이션._06_Constants.executor": "Run",
     "애플리케이션._07_TypeCasting.executor": "Run",
     "애플리케이션._Quiz_01.executor": "Run"
@@ -58,6 +74,48 @@
       <option name="presentableId" value="Default" />
       <updated>1753168295206</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat:StudyJava">
+      <option name="closed" value="true" />
+      <created>1754643981038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754643981038</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: StudyJava">
+      <option name="closed" value="true" />
+      <created>1754644107699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754644107699</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: StudyJava">
+      <option name="closed" value="true" />
+      <created>1754644134010</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754644134010</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="feat:StudyJava" />
+    <MESSAGE value="feat: StudyJava" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: StudyJava" />
   </component>
 </project>
